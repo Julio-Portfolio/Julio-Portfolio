@@ -15,7 +15,7 @@ Sou um desenvolvedor com formação em Ciências da Computação e pós-graduaç
   - **Desenvolvimento em Java** (cursos na **Udemy**).
   
 ## Experiência Profissional
-### Ocupação atual ### Junior Web Developer |
+### Ocupação atual | Junior Web Developer |
 Responsible for both Front-End and Back-End development, including creating a Drag-and-Drop report tool using the following technologies:
 JScript/Node.js with Express.js
 HTML, CSS
