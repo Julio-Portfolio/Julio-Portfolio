@@ -6,7 +6,7 @@ Sou um desenvolvedor com formação em Ciências da Computação e pós-graduaç
   - Desenvolvimento de interfaces responsivas com **HTML5**, **CSS3**, **JavaScript** e **TypeScript**.
 
 - **Backend:**
-  - Criação e manutenção de **APIs REST** utilizando **Express.js**.
+  - Criação e manutenção de **APIs REST** utilizando **Express.js** e **Fastify.js**.
   - **Modularização de projetos** e organização de código com **Node.js**.
 - **Ferramentas e Tecnologias:**
   - Gerenciamento de pacotes e dependências com **npm**.
@@ -15,6 +15,13 @@ Sou um desenvolvedor com formação em Ciências da Computação e pós-graduaç
   - **Desenvolvimento em Java** (cursos na **Udemy**).
   
 ## Experiência Profissional
+### Ocupação atual ### Junior Web Developer |
+Responsible for both Front-End and Back-End development, including creating a Drag-and-Drop report tool using the following technologies:
+JScript/Node.js with Express.js
+HTML, CSS
+MYSQL_DB
+Postman
+Consuming a REST API for data collection.
 ### Especialista em Implantação de Módulo PCP | 
 - Responsável pelo treinamento de clientes, análise de requisitos (RQs), testes preventivos e implementação de soluções personalizadas no sistema em nuvem **IAPP PCP**.
 ### Analista de Implantação/Suporte | 
